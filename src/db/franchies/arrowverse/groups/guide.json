@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "name": "Ano 1",
+        "titles_groups": [
+            {
+                "title": {
+                    "id": 1,
+                    "name": "Arqueiro"
+                },
+                "season": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Ano 2",
+        "titles_groups": [
+            {
+                "title": {
+                    "id": 1,
+                    "name": "Arqueiro"
+                },
+                "season": 2
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Ano 3",
+        "titles_groups": [
+            {
+                "title": {
+                    "id": 1,
+                    "name": "Arqueiro"
+                },
+                "season": 3
+            },
+            {
+                "title": {
+                    "id": 2,
+                    "name": "The Flash"
+                },
+                "season": 1
+            },
+            {
+                "title": {
+                    "id": 8,
+                    "name": "Constantine"
+                },
+                "season": null
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Ano 4",
+        "titles_groups": [
+            {
+                "title": {
+                    "id": 1,
+                    "name": "Arqueiro"
+                },
+                "season": 4
+            },
+            {
+                "title": {
+                    "id": 2,
+                    "name": "The Flash"
+                },
+                "season": 2
+            },
+            {
+                "title": {
+                    "id": 3,
+                    "name": "Supergirl"
+                },
+                "season": 1
+            },
+            {
+                "title": {
+                    "id": 4,
+                    "name": "Lendas do Amanhã"
+                },
+                "season": 1
+            },
+            {
+                "title": {
+                    "id": 7,
+                    "name": "Vixen"
+                },
+                "season": 1
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Ano 5",
+        "titles_groups": [
+            {
+                "title": {
+                    "id": 1,
+                    "name": "Arqueiro"
+                },
+                "season": 5
+            },
+            {
+                "title": {
+                    "id": 2,
+                    "name": "The Flash"
+                },
+                "season": 3
+            },
+            {
+                "title": {
+                    "id": 3,
+                    "name": "Supergirl"
+                },
+                "season": 2
+            },
+            {
+                "title": {
+                    "id": 4,
+                    "name": "Lendas do Amanhã"
+                },
+                "season": 2
+            },
+            {
+                "title": {
+                    "id": 7,
+                    "name": "Vixen"
+                },
+                "season": 2
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Ano 6",
+        "titles_groups": [
+            {
+                "title": {
+                    "id": 1,
+                    "name": "Arqueiro"
+                },
+                "season": 6
+            },
+            {
+                "title": {
+                    "id": 2,
+                    "name": "The Flash"
+                },
+                "season": 4
+            },
+            {
+                "title": {
+                    "id": 3,
+                    "name": "Supergirl"
+                },
+                "season": 3
+            },
+            {
+                "title": {
+                    "id": 4,
+                    "name": "Lendas do Amanhã"
+                },
+                "season": 3
+            },
+            {
+                "title": {
+                    "id": 5,
+                    "name": "Raio Negro"
+                },
+                "season": 1
+            },
+            {
+                "title": {
+                    "id": 9,
+                    "name": "Freedom Fighters: The Ray"
+                },
+                "season": null
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Ano 7",
+        "titles_groups": [
+            {
+                "title": {
+                    "id": 1,
+                    "name": "Arqueiro"
+                },
+                "season": 7
+            },
+            {
+                "title": {
+                    "id": 2,
+                    "name": "The Flash"
+                },
+                "season": 5
+            },
+            {
+                "title": {
+                    "id": 3,
+                    "name": "Supergirl"
+                },
+                "season": 4
+            },
+            {
+                "title": {
+                    "id": 4,
+                    "name": "Lendas do Amanhã"
+                },
+                "season": 4
+            },
+            {
+                "title": {
+                    "id": 5,
+                    "name": "Raio Negro"
+                },
+                "season": 2
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Ano 8",
+        "titles_groups": [
+            {
+                "title": {
+                    "id": 1,
+                    "name": "Arqueiro"
+                },
+                "season": 8
+            },
+            {
+                "title": {
+                    "id": 2,
+                    "name": "The Flash"
+                },
+                "season": 6
+            },
+            {
+                "title": {
+                    "id": 3,
+                    "name": "Supergirl"
+                },
+                "season": 5
+            },
+            {
+                "title": {
+                    "id": 4,
+                    "name": "Lendas do Amanhã"
+                },
+                "season": 5
+            },
+            {
+                "title": {
+                    "id": 5,
+                    "name": "Raio Negro"
+                },
+                "season": 3
+            },
+            {
+                "title": {
+                    "id": 6,
+                    "name": "Batwoman"
+                },
+                "season": 1
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Ano 9",
+        "titles_groups": [
+            {
+                "title": {
+                    "id": 2,
+                    "name": "The Flash"
+                },
+                "season": 7
+            },
+            {
+                "title": {
+                    "id": 3,
+                    "name": "Supergirl"
+                },
+                "season": 6
+            },
+            {
+                "title": {
+                    "id": 4,
+                    "name": "Lendas do Amanhã"
+                },
+                "season": 6
+            },
+            {
+                "title": {
+                    "id": 5,
+                    "name": "Raio Negro"
+                },
+                "season": 4
+            },
+            {
+                "title": {
+                    "id": 6,
+                    "name": "Batwoman"
+                },
+                "season": 2
+            },
+            {
+                "title": {
+                    "id": 10,
+                    "name": "Superman e Lois"
+                },
+                "season": 1
+            }
+        ]
+    }
+]

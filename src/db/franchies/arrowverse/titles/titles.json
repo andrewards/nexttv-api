@@ -1,0 +1,82 @@
+[
+    {
+        "id_tmdb": 1412,
+        "name": "Arqueiro",
+        "photo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oaLXsduGoDOOftWziIOvyZzrR4T.jpg",
+        "description": "Inspirada nos quadrinhos do Arqueiro Verde, esta série acompanha as aventuras do playboy que se torna super-herói e luta contra vilões armado apenas com arco e flechas.",
+        "type": "tv",
+        "franch_id": 1
+    },
+    {
+        "id_tmdb": 60735,
+        "name": "The Flash",
+        "photo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg",
+        "description": "Um perito forense desperta de um coma com poderes especiais que serão postos à prova na luta contra forças que ameaçam a cidade.",
+        "type": "tv",
+        "franch_id": 1
+    },
+    {
+        "id_tmdb": 62688,
+        "name": "Supergirl",
+        "photo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o5j3ygU2sa4vH8z05pjSvOtkb5W.jpg",
+        "description": "Para impedir um desastre, Kara Danvers revela seus poderes e sua verdadeira identidade: ela é a Supergirl, a protetora de National City e prima do Superman.",
+        "type": "tv",
+        "franch_id": 1
+    },
+    {
+        "id_tmdb": 62643,
+        "name": "Lendas do Amanhã",
+        "photo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xS1BsFVT99uywJRjLZh41KZ1MXX.jpg",
+        "description": "Após ter visto o futuro, o viajante do tempo Rip Hunter recebe a missão de montar um grupo eclético de heróis e vilões para confrontar uma ameaça invencível - uma que não somente põe em risco o planeta, mas também o tempo.",
+        "type": "tv",
+        "franch_id": 1
+    },
+    {
+        "id_tmdb": 71663,
+        "name": "Raio Negro",
+        "photo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/or0STNIyvwQXFPX811uTMB1nS3J.jpg",
+        "description": "Super-herói aposentado e diretor de uma escola, o lendário Raio Negro tem de voltar à ativa quando uma gangue começa a ameaçar sua família.",
+        "type": "tv",
+        "franch_id": 1
+    },
+    {
+        "id_tmdb": 89247,
+        "name": "Batwoman",
+        "photo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jnaimWkIVSD9IInmZPyLYarSvvc.jpg",
+        "description": "Kate Kane segue os passos de seu primo desaparecido, Bruce Wayne, e protege as ruas de Gotham City como Batwoman.",
+        "type": "tv",
+        "franch_id": 1
+    },
+    {
+        "id_tmdb": 62125,
+        "name": "Vixen",
+        "photo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/43LYbnSlRKsZRI3cwFsFfQSTFEj.jpg",
+        "description": "Série animada da heroína Vixen, uma jovem que consegue adquirir as habilidades de qualquer animal selvagem. Sua história começa na África Antiga, quando um guerreiro fez um pacto com o Deus Aranha para criar um totem com poderes animais e proteger os inocentes. Esse objeto passou pela sua família, de geração em geração, até chegar em Mari Jiwe McCabe. Após perder seus pais, de maneira trágica, ela se muda para os Estados Unidos e se torna a heroína Vixen.",
+        "type": "tv",
+        "franch_id": 1
+    },
+    {
+        "id_tmdb": 60743,
+        "name": "Constantine",
+        "photo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gQ3bA1DBKyZwkDCHJFEAT0MkKpu.jpg",
+        "description": "John Constantine é um detetive com habilidades sobrenaturais. Perseguido por mistérios e segredos de seu próprio passado, a vida de John é mudada quando suas habilidades são descobertas pelas forças do céu, ou seja, pelo autoritário anjo Manny. Ele irá ajudar o detetive a se tornar um grande e feroz defensor das forças do bem contra o mal.",
+        "type": "tv",
+        "franch_id": 1
+    },
+    {
+        "id_tmdb": 75486,
+        "name": "Freedom Fighters: The Ray",
+        "photo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l1xvN8FqA2HuTICL59HHMZgpPFG.jpg",
+        "description": "",
+        "type": "tv",
+        "franch_id": 1
+    },
+    {
+        "id_tmdb": 95057,
+        "name": "Superman e Lois",
+        "photo": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg",
+        "description": "Clark Kent, o Superman, maior herói do mundo, e sua companheira Lois Lane, uma famosa jornalista, se esforçam para lidar com o estresse e as complexidades cotidianas de serem pais que trabalham na sociedade contemporânea.",
+        "type": "tv",
+        "franch_id": 1
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Arrow",
+        "type": "tv"
+    },
+    {
+        "name": "The Flash",
+        "type": "tv"
+    },
+    {
+        "name": "Supergirl",
+        "type": "tv"
+    },
+    {
+        "name": "Legends of Tomorrow",
+        "type": "tv"
+    },
+    {
+        "name": "Black Lightning",
+        "type": "tv"
+    },
+    {
+        "name": "Batwoman",
+        "type": "tv"
+    },
+    {
+        "name": "Vixen",
+        "type": "tv"
+    },
+    {
+        "name": "Constantine",
+        "type": "tv"
+    },
+    {
+        "name": "Freedom Fighters: The Ray",
+        "type": "tv"
+    },
+    {
+        "name": "Superman & Lois",
+        "type": "tv"
+    }
+]

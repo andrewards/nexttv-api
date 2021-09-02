@@ -1,0 +1,192 @@
+[
+    {
+        "title_id": 1,
+        "season": 1,
+        "group_id": 1
+    },
+    {
+        "title_id": 1,
+        "season": 2,
+        "group_id": 2
+    },
+    {
+        "title_id": 1,
+        "season": 3,
+        "group_id": 3
+    },
+    {
+        "title_id": 2,
+        "season": 1,
+        "group_id": 3
+    },
+    {
+        "title_id": 8,
+        "season": null,
+        "group_id": 3
+    },
+    {
+        "title_id": 1,
+        "season": 4,
+        "group_id": 4
+    },
+    {
+        "title_id": 2,
+        "season": 2,
+        "group_id": 4
+    },
+    {
+        "title_id": 3,
+        "season": 1,
+        "group_id": 4
+    },
+    {
+        "title_id": 4,
+        "season": 1,
+        "group_id": 4
+    },
+    {
+        "title_id": 7,
+        "season": 1,
+        "group_id": 4
+    },
+    {
+        "title_id": 1,
+        "season": 5,
+        "group_id": 5
+    },
+    {
+        "title_id": 2,
+        "season": 3,
+        "group_id": 5
+    },
+    {
+        "title_id": 3,
+        "season": 2,
+        "group_id": 5
+    },
+    {
+        "title_id": 4,
+        "season": 2,
+        "group_id": 5
+    },
+    {
+        "title_id": 7,
+        "season": 2,
+        "group_id": 5
+    },
+    {
+        "title_id": 1,
+        "season": 6,
+        "group_id": 6
+    },
+    {
+        "title_id": 2,
+        "season": 4,
+        "group_id": 6
+    },
+    {
+        "title_id": 3,
+        "season": 3,
+        "group_id": 6
+    },
+    {
+        "title_id": 4,
+        "season": 3,
+        "group_id": 6
+    },
+    {
+        "title_id": 5,
+        "season": 1,
+        "group_id": 6
+    },
+    {
+        "title_id": 9,
+        "season": null,
+        "group_id": 6
+    },
+    {
+        "title_id": 1,
+        "season": 7,
+        "group_id": 7
+    },
+    {
+        "title_id": 2,
+        "season": 5,
+        "group_id": 7
+    },
+    {
+        "title_id": 3,
+        "season": 4,
+        "group_id": 7
+    },
+    {
+        "title_id": 4,
+        "season": 4,
+        "group_id": 7
+    },
+    {
+        "title_id": 5,
+        "season": 2,
+        "group_id": 7
+    },
+    {
+        "title_id": 1,
+        "season": 8,
+        "group_id": 8
+    },
+    {
+        "title_id": 2,
+        "season": 6,
+        "group_id": 8
+    },
+    {
+        "title_id": 3,
+        "season": 5,
+        "group_id": 8
+    },
+    {
+        "title_id": 4,
+        "season": 5,
+        "group_id": 8
+    },
+    {
+        "title_id": 5,
+        "season": 3,
+        "group_id": 8
+    },
+    {
+        "title_id": 6,
+        "season": 1,
+        "group_id": 8
+    },
+    {
+        "title_id": 2,
+        "season": 7,
+        "group_id": 9
+    },
+    {
+        "title_id": 3,
+        "season": 6,
+        "group_id": 9
+    },
+    {
+        "title_id": 4,
+        "season": 6,
+        "group_id": 9
+    },
+    {
+        "title_id": 5,
+        "season": 4,
+        "group_id": 9
+    },
+    {
+        "title_id": 6,
+        "season": 2,
+        "group_id": 9
+    },
+    {
+        "title_id": 10,
+        "season": 1,
+        "group_id": 9
+    }
+]
