@@ -21,12 +21,12 @@ module.exports = {
         allowNull: false,
       },
       season: {
-        type: Sequelize.INTEGER(2),
+        type: Sequelize.INTEGER,
         allowNull: false,
         unsigned: true,
       },
       episode: {
-        type: Sequelize.INTEGER(4),
+        type: Sequelize.INTEGER,
         allowNull: false,
         unsigned: true,
       },

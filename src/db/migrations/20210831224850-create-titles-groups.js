@@ -17,7 +17,7 @@ module.exports = {
         }
       },
       season: {
-        type: Sequelize.INTEGER(2),
+        type: Sequelize.INTEGER,
         allowNull: true,
       },
       group_id: {

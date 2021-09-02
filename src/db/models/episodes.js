@@ -14,8 +14,8 @@ module.exports = (sequelize, DataTypes) => {
   };
   episodes.init({
     name: DataTypes.STRING(50),
-    season: DataTypes.INTEGER(2),
-    episode: DataTypes.INTEGER(4),
+    season: DataTypes.INTEGER,
+    episode: DataTypes.INTEGER,
     description: DataTypes.TEXT,
     when: DataTypes.DATEONLY,
   }, {

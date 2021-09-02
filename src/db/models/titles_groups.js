@@ -19,7 +19,7 @@ module.exports = (sequelize, DataTypes) => {
     }
   };
   titles_groups.init({
-    season: DataTypes.INTEGER(2),
+    season: DataTypes.INTEGER,
   }, {
     sequelize,
     modelName: 'titles_groups',
